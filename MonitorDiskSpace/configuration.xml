@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DailyReport>
+    <Servers>
+        <Server>Server Name</Server>
+    </Servers>
+    <Threshold>
+        <DiskSpaceError>90</DiskSpaceError>
+        <DiskSpaceWarning>80</DiskSpaceWarning>
+    </Threshold>
+</DailyReport>
